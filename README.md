@@ -15,7 +15,7 @@ Listify is a task list app
 ## Built With
 . HTML
 . CSS
-. SLELETON BOILERPLATE
+. MATERIALIZE
 . VANILLA JS
 
 
