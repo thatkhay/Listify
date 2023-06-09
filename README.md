@@ -1,7 +1,5 @@
 # Listify
 
-
-
 ### Table of Contents
 . Overview
 . Built With
@@ -21,6 +19,8 @@ Listify is a task list app
 
 ## Optimization
 Using REACT JS frame work
+
+![tasklist](https://github.com/thatkhay/Listify/assets/117424081/ad24f56b-d272-4797-a6bb-f023f9983762)
 
 ## Author
 Dev Khay (thatkhay)
